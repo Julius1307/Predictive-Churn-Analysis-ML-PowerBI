@@ -1,23 +1,33 @@
 📊 Sistema Predictivo de Retención de Clientes (Churn)
-Este proyecto integra Machine Learning y Business Intelligence para identificar patrones de abandono en una empresa de telecomunicaciones. Se desarrolló un flujo completo desde el preprocesamiento de datos en Python hasta la visualización de KPIs estratégicos en Power BI.
+🚀 Descripción del Proyecto
+Implementación de un sistema "End-to-End" para la predicción de fuga de clientes (Churn) con ML y BI. Integra el procesamiento y modelado en Python (Scikit-Learn) con visualización estratégica en Power BI (DAX), transformando datos históricos en decisiones proactivas para la retención de usuarios.
 
-🛠️ Tecnologías Utilizadas
-Lenguaje: Python (Pandas, NumPy)
+🛠️ Tecnologías y Herramientas
 
-Machine Learning: Scikit-Learn (Random Forest Classifier)
+Lenguaje: Python (Pandas, NumPy).
 
-Visualización: Power BI (DAX)
 
-Entorno: Visual Studio Code
+Machine Learning: Scikit-Learn (Random Forest Classifier).
 
-📈 Resultados Clave
-Precisión del Modelo: 79% de exactitud en la predicción de fuga.
 
-Insight Principal: Se identificó que los usuarios de Fibra Óptica presentan la mayor tasa de abandono, permitiendo focalizar estrategias de retención.
+Business Intelligence: Power BI (Expresiones DAX).
 
-📂 Estructura del Proyecto
-/data: Dataset original y procesado.
 
-/notebooks: Código en VS Code con el entrenamiento del modelo.
+Entorno de Desarrollo: Visual Studio Code.
 
-/report: Archivo .pbix del Dashboard y la Documentación Técnica en PDF.
+💡 Key Insights & Resultados
+✅ Precisión del Modelo: Se alcanzó un 79% de exactitud en la identificación de clientes en riesgo.
+
+🔍 Factor Crítico: El análisis de importancia de características reveló que el servicio de Fibra Óptica es el principal detonante de fuga.
+
+📈 Impacto: Transformación de un modelo predictivo técnico en un Dashboard Ejecutivo con KPIs accionables.
+
+📂 Contenido del Repositorio
+
+Código Fuente: Scripts de Python para el procesamiento y modelado de datos.
+
+
+Reporte BI: Archivo .pbix con el dashboard interactivo de predicciones.
+
+
+Documentación: PDF Técnico detallado con la arquitectura del proyecto.
