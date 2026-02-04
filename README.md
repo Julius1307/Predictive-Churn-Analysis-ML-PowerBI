@@ -23,4 +23,4 @@ Implementación de un sistema **"End-to-End"** para la predicción de fuga de cl
 ### 📂 **Contenido del Repositorio**
 1. **Código Fuente:** Scripts de Python para el procesamiento y modelado de datos.
 2. **Reporte BI:** Archivo `.pbix` con el dashboard interactivo de predicciones.
-3. **Documentación:** [PDF Técnico detallado](./Documentación%20Técnica.pdf) con la arquitectura del proyecto.
+3. **Documentación:** [PDF Técnico detallado](./report/Documentación%20Técnica.pdf) con la arquitectura del proyecto.
